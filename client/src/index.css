@@ -1,0 +1,6 @@
+body{
+    background-color: #ffffff;
+/* background-image: url("background.jpg"); */
+background-attachment: fixed;
+background-size: cover;
+}
